@@ -1,5 +1,8 @@
 # 🧠 NLP & IA — Portfolio Python
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 > Implémentations commentées de concepts fondamentaux en Traitement Automatique des Langues (TAL/NLP) et Intelligence Artificielle.  
 > Réalisé dans le cadre de cursus universitaire à Sorbonne Université.
 
